@@ -1,6 +1,0 @@
-echo "# magic-ui-weapp-docs" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/happy1coding/magic-ui-weapp-docs.git
-git push -u origin master

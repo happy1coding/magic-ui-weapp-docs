@@ -1,0 +1,19 @@
+{
+    "title":"magic",
+    "plugins": [
+        "theme-fexa"
+    ],
+    "variables": {
+        "themeFexa":{
+            "nav":[
+            ]
+        }
+    },
+    "pluginsConfig": {
+        "theme-fexa":{
+            "search-placeholder":"输入关键字搜索",
+            "logo":"./small-logo.png",
+            "favicon": ""
+        }
+    }
+}
